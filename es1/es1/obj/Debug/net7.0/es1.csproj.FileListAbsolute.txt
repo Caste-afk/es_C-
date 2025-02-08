@@ -1,0 +1,15 @@
+C:\Users\10933991\Desktop\eserciziC#\es1\es1\obj\Debug\net7.0\es1.csproj.AssemblyReference.cache
+C:\Users\10933991\Desktop\eserciziC#\es1\es1\obj\Debug\net7.0\es1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10933991\Desktop\eserciziC#\es1\es1\obj\Debug\net7.0\es1.AssemblyInfoInputs.cache
+C:\Users\10933991\Desktop\eserciziC#\es1\es1\obj\Debug\net7.0\es1.AssemblyInfo.cs
+C:\Users\10933991\Desktop\eserciziC#\es1\es1\obj\Debug\net7.0\es1.csproj.CoreCompileInputs.cache
+C:\Users\10933991\Desktop\eserciziC#\es1\es1\bin\Debug\net7.0\es1.exe
+C:\Users\10933991\Desktop\eserciziC#\es1\es1\bin\Debug\net7.0\es1.deps.json
+C:\Users\10933991\Desktop\eserciziC#\es1\es1\bin\Debug\net7.0\es1.runtimeconfig.json
+C:\Users\10933991\Desktop\eserciziC#\es1\es1\bin\Debug\net7.0\es1.dll
+C:\Users\10933991\Desktop\eserciziC#\es1\es1\bin\Debug\net7.0\es1.pdb
+C:\Users\10933991\Desktop\eserciziC#\es1\es1\obj\Debug\net7.0\es1.dll
+C:\Users\10933991\Desktop\eserciziC#\es1\es1\obj\Debug\net7.0\refint\es1.dll
+C:\Users\10933991\Desktop\eserciziC#\es1\es1\obj\Debug\net7.0\es1.pdb
+C:\Users\10933991\Desktop\eserciziC#\es1\es1\obj\Debug\net7.0\es1.genruntimeconfig.cache
+C:\Users\10933991\Desktop\eserciziC#\es1\es1\obj\Debug\net7.0\ref\es1.dll
