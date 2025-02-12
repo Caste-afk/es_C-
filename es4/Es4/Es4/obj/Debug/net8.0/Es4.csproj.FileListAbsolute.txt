@@ -1,0 +1,15 @@
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\es_C-\es4\Es4\Es4\bin\Debug\net8.0\Es4.exe
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\es_C-\es4\Es4\Es4\bin\Debug\net8.0\Es4.deps.json
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\es_C-\es4\Es4\Es4\bin\Debug\net8.0\Es4.runtimeconfig.json
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\es_C-\es4\Es4\Es4\bin\Debug\net8.0\Es4.dll
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\es_C-\es4\Es4\Es4\bin\Debug\net8.0\Es4.pdb
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\es_C-\es4\Es4\Es4\obj\Debug\net8.0\Es4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\es_C-\es4\Es4\Es4\obj\Debug\net8.0\Es4.AssemblyInfoInputs.cache
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\es_C-\es4\Es4\Es4\obj\Debug\net8.0\Es4.AssemblyInfo.cs
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\es_C-\es4\Es4\Es4\obj\Debug\net8.0\Es4.csproj.CoreCompileInputs.cache
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\es_C-\es4\Es4\Es4\obj\Debug\net8.0\Es4.sourcelink.json
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\es_C-\es4\Es4\Es4\obj\Debug\net8.0\Es4.dll
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\es_C-\es4\Es4\Es4\obj\Debug\net8.0\refint\Es4.dll
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\es_C-\es4\Es4\Es4\obj\Debug\net8.0\Es4.pdb
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\es_C-\es4\Es4\Es4\obj\Debug\net8.0\Es4.genruntimeconfig.cache
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\es_C-\es4\Es4\Es4\obj\Debug\net8.0\ref\Es4.dll

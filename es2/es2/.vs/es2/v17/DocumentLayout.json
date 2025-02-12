@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EC\\Desktop\\PROGRAMMAZIONE\\progetti_C#\\es_C-\\es2\\es2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F49FA6A5-A93E-49AF-A773-EB56EADBEE5A}|es2\\es2.csproj|c:\\users\\ec\\desktop\\programmazione\\progetti_c#\\es_c-\\es2\\es2\\es2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49FA6A5-A93E-49AF-A773-EB56EADBEE5A}|es2\\es2.csproj|solutionrelative:es2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EC\\Desktop\\PROGRAMMAZIONE\\progetti_C#\\es_C-\\es2\\es2\\es2\\Program.cs",
+              "RelativeDocumentMoniker": "es2\\Program.cs",
+              "ToolTip": "C:\\Users\\EC\\Desktop\\PROGRAMMAZIONE\\progetti_C#\\es_C-\\es2\\es2\\es2\\Program.cs",
+              "RelativeToolTip": "es2\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvywAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T18:39:12.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

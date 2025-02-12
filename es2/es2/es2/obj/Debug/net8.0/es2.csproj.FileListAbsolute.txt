@@ -1,0 +1,15 @@
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\es_C-\es2\es2\es2\bin\Debug\net8.0\es2.exe
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\es_C-\es2\es2\es2\bin\Debug\net8.0\es2.deps.json
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\es_C-\es2\es2\es2\bin\Debug\net8.0\es2.runtimeconfig.json
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\es_C-\es2\es2\es2\bin\Debug\net8.0\es2.dll
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\es_C-\es2\es2\es2\bin\Debug\net8.0\es2.pdb
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\es_C-\es2\es2\es2\obj\Debug\net8.0\es2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\es_C-\es2\es2\es2\obj\Debug\net8.0\es2.AssemblyInfoInputs.cache
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\es_C-\es2\es2\es2\obj\Debug\net8.0\es2.AssemblyInfo.cs
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\es_C-\es2\es2\es2\obj\Debug\net8.0\es2.csproj.CoreCompileInputs.cache
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\es_C-\es2\es2\es2\obj\Debug\net8.0\es2.sourcelink.json
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\es_C-\es2\es2\es2\obj\Debug\net8.0\es2.dll
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\es_C-\es2\es2\es2\obj\Debug\net8.0\refint\es2.dll
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\es_C-\es2\es2\es2\obj\Debug\net8.0\es2.pdb
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\es_C-\es2\es2\es2\obj\Debug\net8.0\es2.genruntimeconfig.cache
+C:\Users\EC\Desktop\PROGRAMMAZIONE\progetti_C#\es_C-\es2\es2\es2\obj\Debug\net8.0\ref\es2.dll
